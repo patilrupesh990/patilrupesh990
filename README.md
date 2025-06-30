@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Leads Analytics, Deals And offers and Festival greetings projects**
 
-- 🌱 I’m currently learning **Python , AI ML and Video Editing Skills**
-
 - 👯 I’m looking to collaborate on **Open source or any on going freelance**
 
 - 💬 Ask me about **JavaScript, ReactJS, Next JS, Node JS, SQL, MongoDB, Java,Spring boot,MicroFrontEnds**
